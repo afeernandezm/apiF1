@@ -21,7 +21,7 @@ public class Piloto {
 	private Long id;
 
 	private String nombre;
-
+	private String imagen;
 	private float numero;
 
 	@ManyToOne

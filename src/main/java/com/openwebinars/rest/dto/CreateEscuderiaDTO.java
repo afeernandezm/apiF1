@@ -5,9 +5,7 @@ import lombok.Setter;
 
 @Getter
 @Setter
-public class PilotoDTO {
+public class CreateEscuderiaDTO {
     private String nombre;
-    private int numero;
-    private String imagen;
-    private String escuderiaNombre;
+    private String logo;
 }
